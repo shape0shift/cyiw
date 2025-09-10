@@ -8,4 +8,4 @@ If you find my programs useful, or you have got some ideas to add, contact me an
 
 Please quote me if you use CYIW in your research:
 
-SCHIESTL, Andreas (2025). CYIW (Calculate YOur Index Well). Online: https://github.com/shape0shift/cyiw. Retrieved: MM/DD/YYYY.
+SCHIESTL, Andreas (2025). CYIW (Calculate Your Index Well) - Tools for calculating text difficulty. Online: https://github.com/shape0shift/cyiw. Retrieved: MM/DD/YYYY.
